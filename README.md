@@ -1,2 +1,1 @@
-# msdeploy
-Various stuff used to work with MSDeploy\WebDeploy
+Various stuff used to work with IIS and around
